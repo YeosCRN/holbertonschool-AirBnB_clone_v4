@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)  
 Daniel Ortiz - [Github](https://github.com/Dannyelgeek) / [Twitter](https://www.youtube.com/watch?v=0cVlTeIATBs&ab_channel=loki69er)  
-Jerson Riascos - [Github](https://github.com/YeosCRN) / [Twitter](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+Jerson Riascos - [Github](https://github.com/YeosCRN) / [Twitter](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)  
 
 Second part of Airbnb: Joann Vuong
 ## License
